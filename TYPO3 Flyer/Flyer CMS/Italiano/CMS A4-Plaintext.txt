@@ -1,0 +1,57 @@
+=========
+TYPO3
+Il tuo nuovo CMS di scala Enterprise Preferito
+
+Non esiste il CMS migliore in assoluto
+…ma TYPO3 potrebbe essere quello migliore per voi
+Oggi esiste un'ampia gamma di canali sui quali gli utenti delle aziende vogliono creare e pubblicare praticamente ogni tipo di contenuto. TYPO3 consente di gestire siti web tradizionali, app (non importa se native o web-apps responsive) e un'ampia gamma di canali social. TYPO3 li supporta tutti in modo nativo o usando estensioni.
+Abbiamo dimenticato qualcosa? Nessun problema! Dal momento che TYPO3 è un progetto open-source completamente sviluppato dalla sua comunità potrai anche implementare nuovi canali o tipi di contenuto da solo, o con l'aiuto di agenzie professionali, sviluppatori e integratori; puoi addirittura chiedere che siano integrati nel core di TYPO3.
+
+Perché i dirigenti scelgono TYPO3
+■■ Sicurezza e costi chiari
+■■ Scalabile e Flessibile
+
+Perché i commerciali scelgono TYPO3
+■■ Facilità nella pianificazione, strutturazione e pubblicazione dei contenuti
+■■ gestione del workflow e del SEO
+
+Perché gli sviluppatori scelgono TYPO3
+■■ Estendibile e facile da integrare in infrastrutture pre-esistenti
+■■ Scalabile e robusto
+
+//
+
+Fattori chiave
+TYPO3 è il Content Management System di scala Enterprise più utilizzato
+
+Flessibile
+Negli ultimi 10 anni con TYPO3 sono stati realizzati oltre 500.000 siti web aziendali, intranet e applicazioni.
+
+Gratuito
+Nessun costo di licenza richiesto, liberamente scaricabile e utilizzabile da chiunque.
+
+Facile
+Naturalmente avrai bisogno di un po' di esercizio, ma una volta che ti sarai ambientato nel tuo nuovo CMS sarà facile come dire ABC - promesso!
+
+Un Open Source Vivace
+La grande comunità TYPO3 fornisce aiuto, feedback, servizi, supporto e sviluppo.
+
+Espandibile e Flessibile
+Non si ferma finché non vuoi tu. I tuoi sviluppatori possono, per esempio, estendere le funzionalità connettendolo al tuo CRM o al tuo ERP.
+
+Sicuro
+I bollettini sulla sicurezza forniscono informazioni in giornata sulle vulnerabilità del core o delle estensioni di terze parti usando il Common Vulnerability Scoring System (CVSS).
+
+Chi utilizza TYPO3?
+
+Manca qualcosa?
+
+Per i clienti
+Se stai cercando un fornitore di servizi TYPO3 lo puoi trovare su http://association.typo3.org/members/ref/assoc/memberlist/.
+
+Per chi vuol contribuire
+Se sei interessato a programmare, alla comunità o qualsiasi cosa legata a TYPO3, puoi visitare il sito www.typo3.org
+
+Fatto con amore e passione dalla TYPO3 Association
+Per maggiori informazioni puoi visitare il sito: http://typo3.org/association
+=========
