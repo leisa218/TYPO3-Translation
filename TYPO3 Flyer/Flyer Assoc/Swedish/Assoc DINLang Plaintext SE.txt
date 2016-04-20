@@ -1,0 +1,89 @@
+Dina fördelar
+Säkerställ en fortsatt utveckling av TYPO3
+Med ditt medlemskap främjar du den pågående utvecklingen, säkerställer en aktiv säkerhetshantering och gör det möjligt för människor att etablera nya projekt och tekniker som omger TYPO3.
+
+Kom i kontakt med andra människor på evenemang
+och sprintar
+Globala TYPO3-relaterade evenemang ger dig möjlighet att få en bredare förståelse för förmågan och den senaste utvecklingen i TYPO3-familjen, samt skapa nya kontakter i gemenskapen. På TYPO3-sprintar kan du bidra och dela med dig av dina kunskaper, för att stödja utvecklingen av TYPO3 samt kringliggande ämnen som marknadsföring eller utbildning.
+
+Fribiljetter för officiella TYPO3-evenemang
+Som Guld- eller Platinamedlem kan du få gratis biljetter till officiella TYPO3-evenemang, såsom de årliga T3CON, T3 Developer Days eller Alumni #CertiFUNcation Day.
+
+Medlemskap och listing av logotyp
+Alla typer av TYPO3 Association-medlemmar listas på typo3.org. Med ett Platinamedlemskap får du även en banner synlig på typo3.org, inklusive en länk till din webbplats.
+
+Hjälp till att bana vägen för framtidens TYPO3
+Som ett resultat av en omröstning på generalförsamlingen 2015, har styrelsen kommit överens om att gå vidare med uppgiften om att omstrukturera organisationen enligt "TYPO3 Company”-modellen.
+Som TYPO3-medlem du kan rösta i sådana viktiga frågor och utse medlemmar i Expert Advisory Board eller Business Control Committee.
+
+
+////
+
+Vill du gå med i TYPO3 Association?
+Har du frågor? Kan vi hjälpa dig?
+
+Det är lätt! Gå till
+http://typo3.org/association
+
+TYPO3 Association
+Sihlbruggstrasse 105
+6340 Baar
+Schweiz
+
+Telefon: +41 (0) 41 511 00 35
+Fax: +41 (0) 41 511 00 39
+E-post: info@typo3.org
+Webb: http://typo3.org/association
+
+////
+
+TYPO3 Association
+Möjliggör för människor att dela
+
+////
+
+T3A - Håller koden och själen levande
+TYPO3 Association är en icke-vinstdrivande organisation, som grundades 2004 för att ge medel till den pågående långsiktiga utvecklingen av TYPO3.
+Utifrån den grundläggande idén, har ytterligare mål
+satts upp:
+Anordnande av evenemang i syfte att tillhandahålla information och utbildning till sina medlemmar
+Ge stöd för anpassning av mjukvaran TYPO3, till internationella standarder 
+Utbildning och certifiering för att säkerställa kvaliteten på tjänsterna
+Kommunikation med dess medlemmar och allmänheten, för att sprida ytterligare kunskap och färdigheter när det gäller användningen av mjukvaran TYPO3, i synnerhet till grund för projektets webbplats
+
+"Med de allmänna valen i TYPO3 Association, kan varje medlem vara engagerad i beslutsfattandet."
+
+
+////
+
+Att samla människor
+Agency Meetup Days anordnas av organisationen
+ - En kort sammanfattning
+96 byråer - som representerar en total årlig omsättning om 200 miljoner Euro, vilket är ca. 50 procent av det finansiella TYPO3-ekosystemet 2014
+10 städer i hela Europa besöktes
+Direkt kommunikation med TYPO3 Associations medlemmar om deras behov, problem och önskemål när det gäller utveckling av TYPO3 och den framtida strategin för TYPO3 Association
+
+Företräder gemenskapen
+TYPO3 Association representerar TYPO3 Community i följande organisationer:
+OSI (Open Source Initiative)
+OASIS (Organisationen för främjande av strukturerad informationstandarder)
+ECO (Organisationen för tyska Internetindustrin)
+
+Organisartionskommittéer, arbetsgrupper och specialstyrkor
+TYPO3 Association utser utskott för specifika aktiviteter. Vidare initierar den dessutom arbetsgrupper och specialstyrkor för att arbeta tvärvetenskapligt och målinriktat.
+För närvarande rapporterar dessa kommittéer och arbetsgrupper aktivt till styrelsen för TYPO3 Association:
+Kommunikationskommittén
+Utbildningskommitén
+Evenemangskommittén
+Kvalitetskontrollkommittén
+
+
+////
+
+Medlemsnivåer
+
+Årsavgifter
+
+Mer information hittar ni på http://typo3.org/association
+
+"Det är inte platinaskylten på typo3.org som hjälper oss, det är det faktum att vi står mycket nära projektet."

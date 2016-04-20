@@ -1,0 +1,41 @@
+TYPO3Din nya favorit bland Enterprise CMS
+
+Det finns inget "bästa" CMS-verktyg... men TYPO3 kan vara det bästa CMS-verktyget för dig.Numera ser vi ett brett utbud av olika kanaler där företagsanvändare vill skapa och publicera nästan alla typer av innehåll. TYPO3 gör den möjligt att hantera traditionella webbplatser, appar - oavsett om de är för en specifik plattform eller webbaserade responsiva sådana - och ett brett spektrum av sociala mediakanaler. TYPO3 stödjer alla dessa, antingen inom ramverket eller med gratis tilläggsmoduler.Har vi missat något? Inga problem! Eftersom att TYPO3 är ett helt community-drivet öppenkällkodsprojekt kan du antingen implementera nya kanaler eller innehållstyper på egen hand, med hjälp av professionella webbyråer, utvecklare och integratörer eller genom att be om att få dem implementerade i TYPO3-kärnan.
+
+Varför befattningshavare väljer TYPO3
+■■ Kostnadseffektivt och säkert■■ Skalbart och uthålligt
+Varför marknadsförare väljer TYPO3
+■■ Enkel innehållsplanering, struktur och publicering■■ Arbetsflöden och SEO-uteffekt
+Varför Utvecklare väljer TYPO3
+■■ Expanderbar och enkelt att integrera i befintliga infrastrukturer■■ Skalbart och väl underhållet
+
+//
+
+Nyckelfakta
+TYPO3 är det mest använda Enterprise Content Management Systemet.
+Uthålligt
+I 10 år nu, har TYPO3 levererat över 500.000 företagsintranät, webbplatser och appar.
+Gratis
+Inga licenskostnader är inblandade, tillgängligt gratis för dig och alla andra.
+Enkelt
+Kanske behöver du lite träning, men när du har introducerats ditt nya CMS är det lika enkelt som ABC - vi lovar!
+
+Levande Öppen Källkod
+Den stora TYPO3-gemenskapen ger hjälp, feedback, tjänster, löpande support och utveckling.
+Expanderbart & Flexibelt
+Utvecklingen stannar inte upp, om du inte vill. Din webbyrå kan till exempel utöka funktionaliteten i systemet, för att smidigt ansluta till CRM eller ERP.
+Säkert
+Säkerhetsbulletiner ger kontinuerligt information om sårbarheter i TYPO3-kärnan samt för tredjepartstillägg, med hjälp av Common Vulnerability Scoring System (CVSS).
+
+
+Vem använder TYPO3?
+
+Saknar du något?
+
+KundOm du letar efter en TYPO3-leverantör hittar du en lista på
+http://association.typo3.org/members/ref/assoc/memberlist/.
+BidragsgivareOm du är intresserad av kodning, gemenskapen och något systemrelaterat, besök
+www.typo3.org.
+
+Skapat med kärlek och support av: TYPO3 Association
+För mer info, besök: http://typo3.org/association

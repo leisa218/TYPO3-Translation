@@ -1,0 +1,105 @@
+Så vi pratar TYPO3.
+Vad är det? Tja, det är till exempel
+
+Uthålligt
+I 10 år nu, har TYPO3 levererat över 500.000 företagsintranät, webbplatser och appar.
+
+Enkelt
+Kanske behöver du lite träning, men när du har introducerats ditt nya CMS är det lika enkelt som ABC - vi lovar!
+
+Gratis
+Inga licenskostnader är inblandade, tillgängligt gratis för dig och alla andra.
+
+Expanderbart & Flexibelt
+Utvecklingen stannar inte upp, om du inte vill. Din webbyrå kan till exempel utöka funktionaliteten i systemet, för att smidigt ansluta till CRM eller ERP.
+
+Levande Öppen Källkod
+Den stora TYPO3-gemenskapen ger hjälp, feedback, tjänster, löpande support och utveckling.
+
+Säkert
+Säkerhetsbulletiner ger kontinuerligt information om sårbarheter i TYPO3-kärnan samt för tredjepartstillägg, med hjälp av Common Vulnerability Scoring System (CVSS).
+
+
+////
+
+Saknar du något?
+Fråga oss gärna.
+
+TYPO3 är en gemenskapsdriven mjukvara. Personer från TYPO3-gemenskapen utvecklar, delar och bidrar, diskuterar, sprider budskapet och skapar fantastiska saker.
+
+Vi är alltid öppna för förslag och nya bidragsgivare, liksom för dina frågor om någon aspekt av systemet.
+Skicka dina frågor och förfrågningar till info@typo3.org, så kommer vi gladeligen att hjälpa dig och återkomma till dig så snart som möjligt.
+
+Jag är kär i TYPO3!
+Var kan jag hoppa på?
+
+Om du letar efter en TYPO3-leverantör hittar du en lista på
+http://association.typo3.org/members/ref/assoc/memberlist/.
+
+Om du är intresserad av kodning, gemenskapen och något systemrelaterat, besök
+www.typo3.org.
+
+Skapat med kärlek och support av: TYPO3 Association
+För mer info, besök: http://typo3.org/association
+
+////
+
+TYPO3
+Din nya favorit bland Enterprise CMS
+
+En kort introduktion
+version 1
+juli 2015
+
+////
+
+Nyckelfakta
+TYPO3 är det mest använda Enterprise Content Management Systemet.
+TYPO3 gör att användare, marknadsförare och redaktörer kan vidareutveckla sina webbplatser, intranät eller appar med hjälp av ett stabilt ramverk av tilläggsmoduler.
+TYPO3 gör det också möjligt att skapa, publicera och distribuera alla typer av innehåll till flera enheter och kanaler.
+
+Körs på mer än 500.000 webbplatser, intranätwebbplatser och appar
+Öppen källkod
+Inga licensavgifter
+Snabb och tillförlitlig säkerhet och felhantering
+Mobilvänlig
+Multisitehantering
+Kör olika domäner, appar och webbplatser i en installation
+Flerspråksstöd
+Innehållspublicering för webb, appar, sociala media, etc. samt distribuering av innehåll till flera kanaler
+Omfattande hantering av användarrättigheter
+Skalbart
+Tusentals tilläggsmoduler till förfogande
+Öppen för individuell utveckling och integration med tredjepartsmjukvara, t.ex. ERP, CRM eller E-handelsmjukvara
+Certifierade utvecklare och integratörer
+Långsiktig support och aktiv säkerhetshantering
+Arbetsflöden och versionshantering för innehåll och utveckling
+
+////
+
+Det finns inget "bästa" CMS-verktyg. Allvarligt? Allvarligt.
+När det inte längre är tillräckligt att bara driva en hemsida och varför TYPO3 kan vara det bästa CMS-verktyget för dig.
+
+Kommer du ihåg den tiden, när du trodde din webbplats var den enda och den mest värdefulla innehållskällan för alla dina kunder?
+Numera ser vi ett brett utbud av olika kanaler där företagsanvändare vill skapa och publicera nästan alla typer av innehåll. Eller behöver du kanske ett arbetsflöde för att kunna jobba i exakt motsatt riktning. Som att hämta data och tillgångar, såsom bilder eller dokument, från ditt ERP eller e-handelssystem och slå ihop dem till en snygg samlad PDF på företagets webbplats.
+Från traditionella webbplatser, över till appar - oavsett om de är för en specifik plattform eller webbaserade responsiva sådana - till ett brett spektrum av sociala medier, direkt marknadsföring med e-post och även stöd för utskrift - TYPO3 stödjer alla dessa, antingen inom ramverket eller med gratis tilläggsmoduler.
+Har vi missat något? Inga problem! Eftersom att TYPO3 är ett helt community-drivet öppenkällkodsprojekt kan du antingen implementera nya kanaler eller innehållstyper på egen hand, med hjälp av professionella webbyråer, utvecklare och integratörer eller genom att be om att få dem implementerade i TYPO3-kärnan.
+
+
+////
+Vem använder TYPO3?
+
+Varför befattningshavare väljer TYPO3
+
+Kostnadseffektivt och säkert
+Skalbart och uthålligt
+
+Varför marknadsförare väljer TYPO3
+
+Enkel innehållsplanering, struktur och publicering
+Arbetsflöden och SEO-uteffekt
+
+Varför Utvecklare väljer TYPO3
+
+Expanderbar och enkelt att integrera i befintliga infrastrukturer
+Skalbart och väl underhållet
