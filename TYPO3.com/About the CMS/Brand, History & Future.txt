@@ -1,0 +1,62 @@
+About the Brand : TYPO3
+With more than 500,000 installations and more than 15 years of experience in web development, TYPO3 CMS is the most widely used Enterprise Web Content Management System - providing a strong basis for websites, intranets and mobile web applications around the globe.
+
+Starting with small websites for businesses and non-profit organizations, all the way through to large multi-lingual portals for global enterprises, TYPO3 powers modern content management solutions - always with a focus on the current demands of both businesses and public institutions.
+
+With its open source,  cost-free license approach, TYPO3 is also particularly interesting for small and medium enterprises and municipalities where startup and ongoing costs for licenced systems can be prohibitive.
+
+TYPO3 enables users or website operators to further develop their websites using a solid extension framework and to publish and deliver any type of content to multiple devices. As part of the development of a TYPO3 website the developer can rely on a strong community of over 20,000 members and over 7,000 extensions which offer almost unlimited possibilities.
+
+
+The History of TYPO3
+
+The Beginning
+
+The first versions of TYPO3 were developed between 1997 and 1999 by Kasper Skårhøj from Denmark before being released as a public beta in 2000.
+
+In 2001 and 2002 the system was primarily developed by Kasper and received early attention by the professional press. Also in 2001, TYPO3 became open source under the GPL and was developed by a steadily increasing number of contributors ever since.
+
+In spring 2002, with the release of version 3.0, the beta status was dropped and in November of the same year TYPO3 3.5 was published. Within this release we introduced the Extension Manager, allowing TYPO3 developers to share extensions to fulfill a variety of tasks and applications.
+
+TYPO3 Becomes the Enterprise Solution
+
+In 2006 a new milestone was reached with the release of TYPO3 4.0. TYPO3 received an improved user interface and its featureset now allowed it be considered an enterprise content management system, used in complex projects in a wide variety of corporate and business settings.
+
+
+LTS Support and Government Package
+
+Early in 2011, with TYPO3 approaching version 4.5, an "LTS" version was published for the first time. "LTS" stands for "Long Term Support" and secured maintenance and support in the form of updates and security patches for three years from release.
+
+Shortly afterwards TYPO3 4.7 followed featuring full support for HTML5 along with the simultaneous release of the TYPO3 Government Package. The TYPO3 Government Package includes specific improvements to accessibility and aims to meet the requirements of local authorities and public bodies.
+
+The development of the TYPO3 Government Package was supported in part by the BLE in Germany (Federal Ministry of Agriculture and Food) and was a great starting point for developers working on government and charity based projects.
+
+TYPO3 6.0 - Future-proof, Quality and Clouds
+
+In November 2012 version 6.0 of TYPO3 was released. TYPO3 6.0 made it possible to completely integrate cloud storage services (such as Amazon S3, DropBox, ownCloud, WebDav, and many more) into the CMS. With the introduction of the "File Abstraction Layer" (FAL) TYPO3 could now use files which are not only stored on a local web server, but also located in almost any cloud service.
+
+Through the "File Abstraction Layer" files that are used several times on a website are no longer repeatedly copied per-use but are now only referenced. At the same time files can be updated with any meta-information you need. These meta-data entries are managed centrally and are therefore available at all locations where the files are used, further simplifying the work of your editors. 
+
+During the development of TYPO3 6.0 a particular focus on improved quality assurance for the program code was established. With more than 5,000 automated unit tests in place new program code now gets automatically checked on submission. The adoption of PHP 5.3 namespaces has also been completed for the TYPO3 core, bringing it up to date with the latest PHP practices.
+
+TYPO3 6.2 - the Next LTS, Stabilization and Smooth Migration
+
+With version 6.2 the TYPO3 Community introduced the second LTS (long term support) release of TYPO3 CMS. TYPO3 CMS 6.2 was released on March 25th, 2014 and will be supported for free until March 2017 by the TYPO3 Core Team.
+
+The new release focused on stability and modernization, making the product competitive for the next few years. The development also concentrated on the motto "Smooth Migration" to provide best possible support for users upgrading from 4.5 LTS to 6.2 LTS. 
+
+Furthermore TYPO3 6.2 LTS offers responsive image rendering and a mobile device preview for mobile friendly websites and applications. File Abstraction Layer 2.0 and a completely new distribution management were also released. 
+
+TYPO3 Today
+TYPO3 7 - The Next Generation
+
+In December 2014 TYPO3 version 7 was released.
+
+The focus was placed on a general revision of the  backend and the optimization of the editor's experience. Huge parts of TYPO3's essentials were reworked in order to prepare for future challenges whilst doing a huge code cleanup to keep the system lean and healthy.
+
+In November 2015, TYPO3 7.6 was released as an LTS version, providing free support until November 2018.
+
+TYPO3 Future Development
+TYPO3 8 - Miles ahead
+
+In March 2017 TYPO3 Version 8 has been released and will be developed further towards TYPO3 8 LTS. This version will focus on simplifying the implementation and management of cloud infrastructures and supports editors in creating responsive websites. The team is working on bringing more features to the core that assist editors in grasping complex scenarios in an easy to understand fashion. As the first Content Management System to do so,  TYPO3 makes full use of the improvements that come with PHP7, speeding up both TYPO3 itself as well as the PHP eco-system in general.

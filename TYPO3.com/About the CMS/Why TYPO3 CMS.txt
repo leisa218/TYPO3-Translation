@@ -1,0 +1,42 @@
+Why TYPO3 CMS?
+Have you ever wondered what TYPO3 CMS actually is? 
+Well, TYPO3 is an Enterprise Content Management System. 
+To put it shortly: If you need to create, manage and output any kind of digital content, TYPO3 is the right tool for you. You can start small and grow fast, but while your business case might change - you'll never need to change the Content Management System since TYPO3 adapts to your needs.
+
+
+This is why...
+
+No license cost
+
+TYPO3 is open source software under the GNU General Public License. This means that we supply the software to you free of charge and legal obligations. It has always been this way, it is this way, and it will stay this way.
+ 
+Resilient system in development for over 15 years
+
+With over 15 years of experience in the content management market we can safely say “We’ve seen everything”. But not only have we seen everything, we’ve also been able to cope with every challenge digital content has thrown at us.
+
+One thing in life you cannot speed up is gaining experience - TYPO3 has you covered.
+
+Packed with functionality - Right off the bat
+
+Everything you need for your digital content - and probably much more - right there from day one. If you should need additional functionality which we don't provide out of the box, head over to our TYPO3 Extension Repository and find plugins, admin modules, services, themes and much more.
+
+
+
+TYPO3 Community - Alive and kicking
+TYPO3 has a very active community which has been organized into different teams and committees to ensure the continuous development and improvement of TYPO3.
+
+Depending on the skills required a variety of tasks are handled by different teams for the entire TYPO3 product range.
+
+The Core Team, a selection of specialists, is responsible for developing the core functions of TYPO3 and adapting it to the needs and requirements of users and developers in cooperation with other teams. Measures for ongoing quality assurance, such as Unit Testing, code versioning, code reviews and a comprehensive project management team are an integral part of the community.
+
+
+TYPO3 Events
+A global range of different events surrounding TYPO3 offer potential and existing customers, developers or TYPO3 beginners the opportunity to get an idea of the performance capabilities and the latest developments in the TYPO3 family.
+
+The international TYPO3 conferences allow you to get in touch with the TYPO3 project and enable business solution providers, marketers, developers and customers to connect to like minded people and get up-to-date information beyond TYPO3 and web development in North America, Asia and Europe.
+
+National committees and teams organize school, university and campus courses, camps for TYPO3 integrators and users, as well as the famous TYPO3 Developer Days.
+
+In 2015 the TYPO3 Education Committee introduced a dedicated event for upcoming and existing TYPO3 Certified Integrators - the #CertiFUNcation Day - which took place in one of Europe's biggest Theme Parks, the Phantasialand near Cologne, Germany. This gave TYPO3 integrators the chance to refresh their knowledge of TYPO3, get the latest information and rumours direct from the heart of the Community, and meet & exchange experiences with like-minded people and find new business opportunities.
+
+The annual T3Board offers the opportunity to take part in a snowboard and ski tour and meet within the TYPO community. If you don’t like it cold, you can also start to enhance your TYPO3 and sailing skills during T3Sail!

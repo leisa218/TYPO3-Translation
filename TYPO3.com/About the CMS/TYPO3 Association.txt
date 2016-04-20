@@ -1,0 +1,47 @@
+TYPO3 Association
+Goals and Tasks
+The TYPO3 Association, founded in 2004, is a non-profit organization based in Baar, Switzerland, whose tasks is to foster development of the TYPO3 project through funding distribution.
+
+It is also responsible for organizing global events and education via certifications as well as ensuring the trademarks of TYPO3 are respected throughout the world.
+
+The TYPO3 Association is a central part of the community, allowing anyone to support the future of the project. There are more than 750 members of the TYPO3 Association already, consisting of organizations, agencies and individuals.
+
+Each year membership fees generate a certain amount of funds which can then be requested by anyone within the community by sending in a budget application. A team of strategists leads a lively discussion with all members of the TYPO3 association about these budget applications and decides based on its strategic value for the TYPO3 project to accept or deny. Any person or entity is also allowed to sponsor the project either by targeted sponsorships or in general manner via donations.
+
+Events
+The TYPO3 association is organizing a variety of events during the year - each tailored to a different audience but always with the same overall intention: to bring people together from all over the world who share a common interest: TYPO3
+
+
+T3CON - The TYPO3 Business Conference
+
+The T3CON is the international conference focussed on technology relevant for digital businesses in general as well as TYPO3 in particular.
+
+The formats range from classic front-of-house talks, through pecha kutchas, to round-table sessions or even workshops.
+
+A dedicated expo area offers you the possibility to present your services to customers. The event closes with the annual TYPO3 Award where projects built with TYPO3 are honored in several categories - definitely a good place to showcase your work.
+
+T3DD - The TYPO3 Developer Days
+
+If you are looking to learn a lot about TYPO3 - this is the place to be. The Developer Days deliver a lot of talks and hands-on sessions into a thrilling 3-day package. Highlight talks from internationally renowned speakers add extra spice to the event, making it an experience of its own. PSA: Be prepared to need some serious sleep afterwards!
+
+#CertiFUNcation - The Event for Certified Integrators
+
+Once a year the TYPO3 Education Committee and the TYPO3 Certification Team offer a day focussed entirely on certification. Since we want to put the “fun” back into certification we decided to make it happen in an amusement park.
+
+Beside talks from members of the TYPO3 core team, you can take preparation courses to help you with the certification exams which can be taken right on the spot afterwards.
+
+Additional talks such as  "What's new in TYPO3" and "TYPO3 Security" help you to get prepared for your re-certification. 
+
+In the evening you can enjoy dinner with a fantastic barbecue, take a walk in the theme park, talk with like-minded people or enjoy the exclusive joy ride - only open for the TYPO3 Community.
+
+Your Benefits of a Membership
+Join the TYPO3 Association and shape the future of the TYPO3 project.
+
+There’s a lot more in it for you than simply donating money:
+
+Receive discounts on certifications or even free tickets to official TYPO3 events
+Show your clients that you care about the Open Source software you use by using one of the official member badges
+Participate and vote on strategic decisions at the General Assembly
+Bring in your voice when deciding on where the TYPO3 association should spend its funding
+Display your organization on the official membership list on TYPO3.org
+Did we spark your interest? Several levels of membership are available, just pick the one that fits and become one of over 750 members within a few minutes: https://typo3.org/association/membership/levels/
