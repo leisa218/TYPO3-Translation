@@ -1,5 +1,3 @@
-========
-
 I vantaggi per te
 Assicurare lo sviluppo continuo di TYPO3
 Con la tua iscrizione favorisci lo sviluppo continuo, assicuri la gestione dei problemi di sicurezza e consenti alle persone di realizzare nuovi progetti e tecnologie espandendo l'ecosistema di TYPO3.
@@ -86,5 +84,3 @@ Iscrizione annuale
 Maggiori informazioni su http://typo3.org/association
 
 „Non è tanto il contrassegno di platino su typo3.org che ci aiuta, quanto il fatto che siamo molto vicini al progetto.“
-
-========
