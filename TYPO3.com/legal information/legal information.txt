@@ -1,0 +1,46 @@
+Provider of Services
+TYPO3 Association
+Sihlbruggstrasse 105
+6340 Baar
+Switzerland
+
+Phone: +41 41 511 00 35 
+Fax: +41 41 511 00 39 
+
+E-Mail:info(at)typo3.org
+Web: https://typo3.org/association/
+Personal Data Protection
+
+The TYPO3 Association is committed to user privacy. For statistical reasons we collect the following technical data:
+
+type of browser
+type of operating system
+referrer URL
+time and date of the use of the website
+your IP address
+This data is collected anonymously and will be kept separately from any private user data you might provide to us at this website. 
+Cookies
+
+We might use cookies to keep your session active. A cookie is a little text file that is stored by your browser on your system. We do not use cookies for personal data storage or identification.
+Private User Data
+
+In some cases we need to collect your private user data to process certain information on this website. This data will not be given to any other third party without your explicit written notice.
+
+In some cases we may be forced to give the data to official government agencies.
+Exposure of your Profile and Online Activities
+
+Please be aware that by using our mailing lists, forums and services your profile and activities will be available to the general public through search engines and archives. As we also require you to use your real name while using the resources and we will not accept any deletion requests for content created by you. 
+Trademarks
+
+TYPO3 is a Trademark of the TYPO3 Association.
+
+All other trademarks and brand names shown are property of their respective owners.
+Whom to Ask
+
+In case you want to know what data we collect on our servers, feel free to send an e-mail to info(at)typo3.org.
+Photocredits
+
+University Vienna
+T3EE
+jweiland.net
+Mario Rimann

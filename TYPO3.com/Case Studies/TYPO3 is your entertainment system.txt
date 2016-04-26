@@ -1,0 +1,38 @@
+Overview:
+TYPO3 is... your entertainment system
+
+Beside the fun that they have by playing games Jim and Marshall also find out that they live just one street far away and become friends.
+
+Read More
+
+TYPO3 is...
+your entertainment system
+
+8,216 billion Yen turnover
+110 million registered users
+131.700 employees
+PlayStation Stores in 51 countrie
+
+How we made friends with TYPO3
+Jim and Marshall don't know each other - but they have one thing in common: they use their SONY PlayStation to play games, listen to music and watch movies. Using the PlayStation Network they regularly play together and soon find out they all live just round the block from each other. While still playing together online they now also meet in the real world to play ball and listen to their favorite tunes.
+
+SONY PlayStation Network in numbers
+More than 110 million users worldwide use the PlayStation Network - or PSN for short - to download or stream games, movies, music or apps. PSN stores are available in 51 countries and provide access to their services 24/7. All content is available for desktop PC, laptops, tablets and smartphones as well as on SONY PlayStation platforms, making PSN a truly cross-platform service. With over 131,000 employees SONY generates a total turnover of more than 8 billion Yen per year.
+Wow facts
+Music unlimited, as a  part of the Playstation Network, is reachable in at least 19 Countries. According to Sony the music catalog contained over 10 million songs.
+
+The PlayStation Store is reachable in 51 Countries worldwide. Customers can play and buy content for their PlayStation3, Playstation4, PC, Tablets and Smartphones.
+
+Introduction of the Project
+The Playstation Network is the perfect place to get the best games, movies, TV and apps in one go. A complete world full of entertainment right on Playstation and mobile, tablet and laptop.
+
+Browse, shop, watch and play on your PS4™, PS3™ and PS Vita™. Access the PlayStation Store on the web via your computer or mobile. 
+
+With PlayStation Video you can rent and buy blockbuster movies weeks before disc release plus  major network TV the day after airing. Seamless, instant access  on PlayStation and all your favorite devices, too.
+
+Access Spotify on PlayStation™Music! Listen to millions of songs and playlists, and play select PS4™ games with your own choice of music too. (in-game music playback not available in PlayStation™Now or while using Remote Play).
+
+Challenges
+At that time Sony was already successfully running the Sony Entertainment Network across 57 countries and in 14 languages based on an existing static portal. With its static approach the deployment process for new content became lengthy and unstable for the still growing  platform and their increasing volume of subscriptions.
+
+Sony needed to change something major to stabilize that content creation and publishing processes and decided to migrate all of its existing static content to the Enterprise Web Content Management System TYPO3. 

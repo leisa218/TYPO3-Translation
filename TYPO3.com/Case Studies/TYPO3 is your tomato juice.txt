@@ -1,0 +1,32 @@
+Overview:
+
+TYPO3 is... your tomato juice
+
+Sip on your tomato juice and fly to your next meeting. Most likely your drink was served by TYPO3.
+
+Read More
+
+
+Full Page:
+
+TYPO3 is...
+your tomato juice
+
+Country: Germany
+Employees 119.559 (2015)
+Turnaround 32,05 Milliarden € (2015)
+
+In the air tonight with TYPO3
+Sip on your tomato juice and fly to your next meeting. Most likely your drink was served by TYPO3.
+
+“Lean back, relax and sip at your tomato juice while you're flying to your next meeting with Lufthansa. Guess what, the attendant who served this wonderful beverage was employed using a TYPO3 website.”
+
+About Lufthansa Group
+Deutsche Lufthansa AG is a global aviation group which includes more than 400 subsidiaries and associated companies, the largest airline in Europe in terms of overall passengers carried (76 million customers). Together with other partners in the Star Alliance, the Lufthansa Group travels to 1077 destinations in 175 countries. At the end of 2009 it employed 118,000 people and achieved total operating revenue of 22.3 billion EUR for the year, as well as setting a new record for efficiency: it consumed only 4.30 litres per passenger per 100 kilometres, evidence of the innovation and forward-thinking that makes it the leading European airline.
+
+The Lufthansa Group uses TYPO3 for a wide range of different goals and websites.
+Just to name a few (of the usages), the corporate website www.lufthansagroup.com/ offers the latest information about the company and its associated companies, media and investor relations, as well as their corporate responsibility. Special topic related multisites, like sport.lufthansagroup.com, are also part of the corporate portal  - always availble for desktop and mobile. Always published and empowered by TYPO3.
+
+The www.be-lufthansa.com/ website is dedicated to HR (Human Resources) and is the entry point for the over 118,000 employees and  job candidates. By using this site users can find information about jobs and apprenticeships and  about their job applications. Even live chat and online test training is available. Employees and applications can also register at the website and login and get information about their latest training and events.
+
+By using TYPO3 Lufthansa ensures a 360° support system, mentoring and introductory approach toward the careers of its employees and job applicants.

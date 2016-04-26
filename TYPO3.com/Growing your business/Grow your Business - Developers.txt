@@ -1,0 +1,50 @@
+Grow your Business - Developers
+TYPO3 as a content management system has grown continuously over the last 16 years. With its main focus on enterprise solutions for websites, applications and beyond, TYPO3 offers a sophisticated and safe architecture for ongoing and professional development. 
+
+Countless inspiring events and the extraordinary TYPO3 Community offer you possibilities to continuously enhance your skills, broaden your knowledge and find the right spot for your development interests.
+
+
+Great Product - Awesome People
+With fixed release cycles TYPO3 gives you the possibility to easily plan and implement your development steps for top-notch applications and websites. Backend, frontend, design and data models are strictly separated to give you an encapsulated architecture out of the box as a solid base for further development and ongoing maintenance for your application.
+
+TYPO3 is highly community driven and concentrates a wide range of knowledge input about new,  ground breaking and innovating technologies - ensuring a high level of code quality.
+
+With its highly qualified Core Team TYPO3 brings open source to a new level. Meet and discuss with Core Team members either in person on events or via the TYPO3 Community, chat Slack about the latest changes, PHP coding standards or security aspects - you name the topic.
+
+Want to dig even deeper into TYPO3? Consider joining the TYPO3 Core Team for sprints or even on a regular basis for continued contribution. The TYPO3 Community is open - everybody is welcome.
+
+You will find the developer portal here: www.typo3.org
+
+
+Clean Code
+Over 8000 unit-tests runs in every deployment cycle and give us validation for our work in our continuous integration circle. Since TYPO3 version 6  we've also made a commitment to the PSR2 coding guidelines.
+
+Focused on a clean architecture as the biggest goal PSR0 and PSR4 are also completely integrated and since TYPO3 7 -  PSR7 as well. No matter if you are deeply based in another system like Symfony or Lavarel you can dive purposefully into the Core and will feel at home immediately.
+
+TYPO3 as the first CMS with PSR7 as standard in its Core sets a meaningful sign of how important it is to realize code standards in sophisticated software. As a result of our developments we can look to further promising synergies with upcoming security standards.
+
+
+
+Let. It. Roll. Continuous and Stable.
+The continuous development process of the TYPO3 Core is managed using a Git repository, whilst Gerrit is used as review system.
+
+TYPO3's Gerrit interface is located at review.typo3.org. Gerrit handles the whole review process and acts as a gatekeeper in front of the official TYPO3 Git repository on git.typo3.org.
+
+Every change has to pass a review process in Gerrit which later pushes the changes to the repository. Each patch will be reviewed with a six-eye principle.
+
+
+Career Opportunities
+With solid knowledge and experience, TYPO3 is almost a  guarantee to make a meaningful career in your local area or international level.
+
+The spread of abilities offers possibilities to work in large, internationally operating companies, specialized TYPO3 agencies, over to remote employments in international teams - or even running your own business as a freelancer.
+
+Even if you choose to leave the development arena, your achievements and experiences that you collected with TYPO3 will open countless opportunities as a project manager, team leader or even as CEO. 
+
+
+
+Reliable Release Dates and Pure Open Source
+Since 2014 new TYPO3 versions have been published in fixed release cycles. The the aim of this commitment was, away from traditional alpha/beta releases, to give more transparency to developers,  decision makers and the market about upcoming tasks and objectives, as well as reliable release dates.
+
+Within the agile process every new TYPO3 version will  be developed by beginning with a kick-off and conceptional phase, over to development sprints, through to the stabilization and hardening phase before finally publishing a rock-solid LTS release. 
+
+Besides the permanent TYPO3 Core Team a total of 187 active contributors worked on the development of TYPO3 during the last 12 months, making TYPO3 an outstanding  example for living open source and very high development activity.

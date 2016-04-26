@@ -1,0 +1,42 @@
+Overview:
+
+TYPO3 is... your university
+
+Knowledge to go - with TYPO3 Every day more than 93’000 students and over 9’700 employees use are getting their daily dose of knowledge by using one or more portals on the Vienna University Campus websites.
+
+Read More
+
+TYPO3 is...
+your university
+
+About 93'000 students and 9'700 employees.
+6'800 Researches
+181 Degree Programmes
+19 Faculties and Centres
+
+
+Knowledge to Go - With TYPO3
+Every day more than 93,000 students and over 9,700 employees are getting their daily dose of knowledge by using one or more portals on the Vienna University Campus websites.
+
+With almost 1,300 different domains, more than 570,000 news elements and 420,000 content elements the TYPO3 University Service provides a massive amount of information and knowledge in over 32 languages - all empowered by one central TYPO3 installation.
+
+The ZID enables institutes, faculties, service providers and projects to establish and run their own web presences within the centralized TYPO3 system.
+
+When it started back in 2006 the ZID established their first TYPO3 website just for student information. Later on the new student website and the corporate webdesign were completely done with TYPO3. Due to the ongoing increasing popularity of the website it experienced a huge growth in content and usage between 2009 and 2011.
+
+Currently the central installation of the University of Vienna is a solid example for even large TYPO3 installations, providing the basis for a wide range of different websites and services.
+
+Here are some quite impressive numbers, all handled by one single TYPO3 system:
+
+1,284 Domains
+132,407 Pages
+573,980 News Elements
+420,083 Content Elements
+3,821 Backend Users
+32 Languages
+TYPO3 is a well known and reliable power house for educational facilities like schools or universities. 
+
+With its almost unlimited expandability, a long term development and service strategy, and built-in core functionalities like Multisite Management and Granular Access Rights including Roles and Users, TYPO3 was the perfect match to fulfill the needs of the University of Vienna.
+
+“With its core functionality for multisite- and granular access rights management, TYPO3 was the perfect system to fulfill the needs of the Vienna University.”
+The Vienna University Computer Center (Zentraler Informatikdienst - ZID) supports both the members of the University of Vienna and external customers and partners with regard to achieving their goals with the help of coordinated services in the area of communication and information technology (ICT).

@@ -1,0 +1,53 @@
+Grow your Business - Agencies
+As an agency or freelancer your main focus is to create the most value for your clients - in the most efficient manner. This is where TYPO3 shines for you. 
+
+TYPO3's sophisticated templating engine enables you to trim down your templates into small, re-usable parts. Over time you will build up an arsenal of building blocks which puts prior development conveniently at your fingertips, speeding up development of new projects. 
+
+Additionally you can build a set of extensions for your regular usecases, combine them and reuse them to kick-start new projects for your clients.
+
+
+True Separation Between Content and Design
+Since TYPO3 truly separates content from a design and templates, building websites or applications has never been easier. There's no need to do dirty PHP hacking in templating files because there are numerous template engines for TYPO3. Just choose the one that fits your needs best.
+
+With the built-in workspaces you can run and try several layouts in parallel, analyze and change  them continuously while using multivariant testing  or even redesign your whole application while your editors are still able to continue working with the current layout.
+
+Another benefit is that editors can start adding content immediately after the system is installed - they don't have to wait for the screen designers or the developers to finish their jobs.
+
+TYPO3 fully support the Content-first Approach for your projec
+
+
+
+100% Control Over Your Design
+TYPO3 has no limits when it comes to designing your applications. Just let that sink in for a minute: No. Limitations. To. Your. Design.
+
+We believe in giving designers and developers absolute freedom over implementation - this is why TYPO3 is so flexible and resilient. Imagine you need a new output - let's call it HTML7 - it's already possible with TYPO3, even if it's not invented yet. 
+
+TYPO3 simply adapts to every new challenge whilst creating digital value - not because we add new, amazing features every week, but because this is how TYPO3 is built from the ground up. 
+
+Turnkey Imports and Exports
+We built TYPO3 with a sophisticated import/export solution enabling you to exchange selected content, specific pages or even complete sites between different TYPO3 instances.
+
+You know the situation: Someone built a website a while ago and today the client asks you to migrate it into the “main” system to simplify the maintenance overhead.
+
+This is where other systems leave you standing in the cold by advising you to copy & paste the content from A to B. With TYPO3 you simply export the site on server A and import it into server B - easy as pie.
+
+
+
+Continuous Integration
+Although TYPO3 is the perfect tool for managing any kind of content, its roots are in the framework world.
+
+So even though it is a CMS with a powerful admin interface, TYPO3 acts just like an application framework when it comes to deployments.
+
+We ship a powerful framework for Continuous Integration tests supporting not only Unit Tests but also Functional Tests and User Acceptance Tests so you can analyze your applications with a browser - without manually clicking or filling in fields.
+
+The TYPO3 test suite automatically assures your sites and applications work as expected - increasing your customer satisfaction
+
+
+
+Show your skills
+The TYPO3 association offers learning courses and certifications for developers, integrators and editors. 
+
+By training your team members to become TYPO3 Certified Developers, Integrators and Editors you can get and keep ahead of your competition.
+
+Public tenders have shown tendencies to prefer suppliers that include certified team membe
+

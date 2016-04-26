@@ -1,0 +1,43 @@
+Grow your Business - Marketers
+Running a business is a challenge in itself. 
+You have to focus on creating great content for your users and get back meaningful analytics on your content channels.
+
+
+Create and Publish Multichannel Content
+With TYPO3 you can easily publish digital content into any channel you need today - and even into those you didn't think of! Being true to the original task of a CMS - separating content and presentation - feeding multiple channels finally becomes a simple task.
+
+No matter if you want to run a website, a social media hub or a full-blown media-center, automate your marketing using tools like Hubspot or Oracle Eloqua and monitor your success via analytics, run your press center with automatically generated plain-text files or PDF documents: TYPO3 can handle the task.
+
+WithTYPO3 you can publish 'once created' content to various channels and formats easily and automatically. 
+
+Keep your Investment
+We give you a platform promise. This means that we make sure that no matter what technology develops during the lifetime of a TYPO3 release, we won't raise the system requirements of a release so there will be no unpleasant surprises for you. But apart from that we don't only promise to maintain the old versions of PHP or even the browser you use - we also keep the service releases up to date for current browsers.
+
+Additionally TYPO3 is extremely sustainable  when it comes to updates. There is no need to manually transfer content from one instance to another or even rebuild your website or application from scratch, just because a new major release has been published.
+
+TYPO3 comes with turnkey upgrade wizards that will keep your content in place - even when switching versions that have had a decade between their releases.
+
+
+Stay Secure
+Set a quality statement for your products, services and customers! TYPO3 is provided in to-the-day reliable release cycles and continuous security updates.
+
+TYPO3 offers a full three years of Long Term Support containing regular compatibility and security updates.
+
+The TYPO3 Security Team consists of highly qualified engineers making sure both your and your customers data stays safe. Even if you plan for a longer lifecycle of your website or application, we have your back with our Extended Long Term Support Plans.
+
+Service-level releases require no manual interaction, so rollouts of new TYPO3 versions are a real breeze.
+
+Grow-As-You-Go
+We cannot tell you what the future holds, but we can assure you that no matter how your business changes or grows - TYPO3 will always be able to change and grow with you. Adding additional websites to your TYPO3 instance doesn’t require any change to existing sites.
+
+Extend your client base by providing your content in multiple languages to cover emerging markets or add that hyped new social channel - TYPO3 won’t let you down.
+
+But there’s even more to it than that!
+
+With thousands of agencies and even more freelancers offering TYPO3 services around the globe you will never have to worry about your digital projects again - there is always a helping hand around. After all: it’s open source, the community will have your back when you need any help.
+
+Unlimited extensibility
+Unlimited output channels
+Unparalleled flexibility
+Continuous security
+Reliable support cycles
