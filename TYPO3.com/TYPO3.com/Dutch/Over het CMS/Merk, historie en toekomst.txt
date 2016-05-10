@@ -1,0 +1,62 @@
+﻿Over het merk: TYPO3
+Met meer dan 500.000 installaties en meer dan 15 jaar ervaring in web ontwikkeling is TYPO3 het meest gebruikte content management systeem voor ondernemingen dat een sterke basis voorziet voor zowel websites als intranet als mobiele applicaties over de hele wereld.
+
+Van kleine websites voor startende ondernemingen of stichtingen, tot portals in meerder talen voor multinationals, TYPO3 is van alle markten thuis als het gaat om een modern content management systeem.
+
+Omdat TYPO3 open source is en werkt met een gratis licentie is het voor klein en middelgrote bedrijven een aantrekkelijke oplossing. Vooral in bedrijven er organisaties waar hoge licentiekosten vaan de kink in de kabel zijn.
+
+TYPO3 maakt het voor gebruikers en administrators mogelijk om hun websites te ontwikkelen in een richting die bij hen past. Door het sterke Extension Framework kunnen zowel gebruikers als administrators nieuwe content publiceren naar een handvol apparaten. Naast de gebruikersvriendelijkheid kunnen de gebruikers rekenen op een sterke community met meer dan 20.000 leden die tezamen ongeveer 7.000 extensions publiceerde.
+
+
+De geschiedenis van TYPO3
+
+Het Begin
+
+De eerste versie van TYPO3 werd ontwikkeld tussen 1997 en 1999 door Kasper Skårhøj uit Denemarken, waarna in 2000 als publieke betaversie is vrijgegeven.
+
+In 2001 en 2002 werd het systeem nog grotendeels ontwikkeld door Kasper Skårhøj en kreeg toen der tijd zijn eerste aandacht van de pers. Na 2001 werd TYPO3 open source onder de GPL waardoor het aantal ontwikkelaars sterk steeg.
+
+In de lente van 2002 werd versie 3.0 gepubliceerd en daarmee hat TYPO3 officieel zijn bètastatus verloren. Vrij snel hierna (november dat zelfde jaar) werd versie 3.5 uitgebracht. versie 3.5 bevatte ook de eerste Extension Manager waarmee ontwikkelaars hun eigen draai konden geven aan het CMS.
+
+TYPO3 wordt een bedrijfsplatform
+
+In 2006 werd er een nieuwe mijlpaal gepasseerd door de release van versie 4.0. Deze versie bevatte een betere gebruikersinterface waardoor het met deze release gezien kon worden als een CMS voor bedrijven dat kon worden ingezet voor complexe bedrijfsprocessen en oplossingen.
+
+LTS support en het Overheidspakket
+
+In het begin van 2011 met TYPO3 4.5 in het vooruitzicht werd er een "LTS" versie uitgebracht. LTS staat voor Long Term Support waarbij het systeem up to date wordt gehouden door middel van security patches en versleuteld onderhoud.
+
+Kort daarna kwam TYPO3 4.7 met volledige HTML5 support. Gelijktijdig werd ook het TYPO3 Overheidspakket uitgebracht. Het Overheidspakket is uitgerust met verschillende verbeteringen op het gebied van toegankelijkheid waarmee er gemikt wordt op de vraag van lokale autoriteiten en overheidsorganen.
+
+De ontwikkeling van het Overheidspakket werd gedeeltelijk gesteund door de Duitse BLE (ministerie van Landbouw) en werd daarnaast een fantastisch startpunt voor een netwerk van ontwikkelaars op het gebied van projecten van de overheid en goede doelen.
+
+
+TYPO3 6.0 - toekomstbestendig, Kwaliteit en Clouds
+
+In November 2012 kwam TYPO3 6.0 uit. Met TYPO3 6.0 werd het mogelijk gemaakt om complete Cloud systemen te integreren in het TYPO3 CMS. Denk hierbij aan services zoals Amazon S3, Dropbox, ownCloud etc. Met de nieuwe "File Abstraction Layer", ook wel FAL genoemd werd het mogelijk voor TYPO3 om bestanden aan te spreken die niet op de lokale server staan, maar bijvoorbeeld op een cloud service.
+
+Door de FAL worden de externe bestanden ook niet meer per gebruik naar de lokale server gekopieerd, maar worden ze slechts alleen aangesproken. Tegelijkertijd kunnen bestanden worden bijgewerkt met meta-data informatie. Deze meta-data wordt ergens centraal geregeld waardoor alle bestanden, waar ze ook opgevraagd worden, altijd up to date zijn.
+
+Tijdens de ontwikkeling van TYPO3 6.0 werd er ook vooral een focus gelegd op het verbeteren van de kwaliteit van de code zelf. Met meer dan 5000 geautomatiseerde programmatests wordt ieder stukje aangeleverde code zorgvuldig gecheckt. De core van TYPO3 is ook bijgewerkt met de overgang op namespaces in PHP 5.3 waardoor TYPO3 up to date is met de laatste PHP versie.
+
+TYPO3 6.2 - De volgende LTS, Stabilisering en vlekkeloze migratie
+
+Met versie 6.2 introduceerde de TYPO3 community de tweede versie van het Long Term Support CMS. TYPO3 6.2 kwam uit op 25 van maart 2014 en zal worden ondersteund tot en met maart 2017 door het TYPO3 core team.
+
+De nieuwe versie focust ook vooral op stabiliteit en modernisering van het systeem waardoor het systeem competitief op de markt kan staan. Het motto van deze ontwikkeling luidt: "Smooth Migration", oftewel "Vlekkeloze Migratie". Dit zorgt voor de best mogelijke support voor gebruikers die willen upgraden van versie 4.5 naar versie 6.2.
+
+Verder levert TYPO3 6.2 responsive image rendering en een mobile device preview die er voor zorgt dat men een voorbeeld kan zien van de webpagina op een mobiel apparaat. Daarnaast kwam deze release ook met FAL versie 2.0.
+
+TYPO3 vandaag
+TYPO3 7 - Een nieuwe generatie
+
+In december 2014 kwam TYPO3 7 uit.
+
+Deze versie focust vooral op het verbeten van de backend en het optimaliseren van de gebruikerservaring op het gebied van de redacteuren en de redacteurs. Een groot deel van de basisfunctionaliteiten van TYPO3 werden opnieuw geschreven en geoptimaliseerd.
+
+In november 2015 is TYPO3 7.6 uitgekomen als een LTS versie met support tot november 2018.
+
+TYPO3 toekomstige plannen
+TYPO3 8 - loopt voorop
+
+In maart 2017 is TYPO3 8 uitgekomen en zal later worden uitgewerkt tot TYPO3 8 LTS. Deze versie zal vooral helpen met het implementeren van cloud infrastructuren en het helpen van redacteuren in het bouwen van een responsive website. Het core team werkt momenteel aan een systeem om redacteuren te assisteren met het implementeren en uittekenen van complexe software oplossingen. TYPO3 is het eerste CMS dat dit introduceert, daarmee gebruikt TYPO3 ook alle nieuwe functionaliteiten die komen met PHP7 waardoor TYPO3 een aanzienlijke snelheid boost zal krijgen.

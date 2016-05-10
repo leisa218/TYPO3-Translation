@@ -1,0 +1,40 @@
+Overview:
+
+TYPO3 is... uw universiteit
+
+Kennis om mee te nemen - Met TYPO3 krijgen 93.000 studenten en 9.700 medewerkers hun dagelijkse dosis kennis toegediend op het University Campus in Wenen.
+
+Lees meer
+
+Full page:
+TYPO3 is...
+Uw universiteit
+
+93.000 studenten en 9.700 medewerkers
+6.800 onderzoekers
+181 Programma’s
+19 faculteiten en centra
+
+
+Kennis om mee te nemen met TYPO3
+Kennis om mee te nemen - Met TYPO3 krijgen 93.000 studenten en 9.700 medewerkers hun dagelijkse dosis kennis toegediend op het University Campus in Wenen.
+
+Met 1.300 verschillende domeinen, meer dan 570.000 nieuwselementen en 420.000 content elementen beheert de TYPO3 universiteitsdienst een ongelofelijke hoeveelheid aan informatie en kennis in wel 32 talen. Dit alles op slechts één TYPO3 installatie.
+
+De ZID zorgt ervoor dat mensen hun eigen stukje van de website kunnen runnen binnen dezelfde centrale TYPO3 installatie.
+
+In 2006 ging het van start met de ZID. De eerste TYPO3 website bouwde ze om studenten van informatie te voorzien. Later werd het complete portaal samen met de bedrijfsmatige website ook overgezet naar TYPO3. Dit kwam vooral omdat de website veel populairder werd door de jaren heen.
+
+Op de dag van vandaag is de installatie van de universiteit in Wenen een perfect voorbeeld voor een veelzijdig en groot systeem dat op TYPO3 loopt.
+
+Hier zijn nog een paar cijfers:
+
+1.284 domeinen
+132.407 pagina’s
+573.980 Nieuws elementen
+420.083 Content elementen
+3.821 Backend gebruikers
+32 talen
+TYPO3 is een geliefd systeem voor educatieve instanties zoals scholen en universiteiten.
+
+Met de ongekende uitbreidingsmogelijkheden, de service strategie, en kernfunctionaliteiten zoals multisite management waaronder ook weer de gebruikersrollenverdeling was TYPO3 de perfecte keuze voor de universiteit van Wenen.

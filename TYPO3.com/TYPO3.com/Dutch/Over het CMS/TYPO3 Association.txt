@@ -1,0 +1,47 @@
+TYPO3 Vereniging
+Doelen en Taken
+De TYPO3 Vereniging, gestart in 2004, is een non-profit organisatie in Baar, Zwitserland. De taak van deze vereniging is het bevorderen van de ontwikkeling van TYPO3 doormiddel van het verspreiden van budgetten.
+
+Ook is deze organisatie verantwoordelijk voor het organiseren van wereldwijde events over TYPO3. Daarnaast is het ook verantwoordelijk voor de scholing rondom TYPO3 doormiddel van het verstrekken van verschillende certificaten. Verder zorgen ze er ook voor dat het trademark van TYPO3 gerespecteerd en niet geschonden wordt.
+
+De TYPO3 Vereniging is het centrale onderdeel van de TYPO3 community waardoor iedereen zijn steentje bij kan dragen. Tot op heden telt de TYPO3 Vereniging ongeveer 750 leden onder wie vele firma’s, organisaties en individuen.
+
+Ieder jaar krijgt de vereniging geld binnen doormiddel van contributie. Op dat geld kan dan een beroep gedaan worden door de community. Daarna zal de vereniging de discussie aangaan met initiatiefnemers en haar leden om uit te maken waar haar fondsen naar toe gaan. Ieder persoon kan bijdragen aan TYPO3 doormiddel van een donatie of sponsoring.
+
+Activiteiten
+De TYPO3 vereniging organiseert jaarlijks vele evenementen. Elk event is gericht op een verschillend publiek, maar hebben over het algemeen hetzelfde doel: Mensen samenbrengen die samen een interesseveld delen, namelijk TYPO3.
+
+
+T3CON - TYPO3 Bedrijfsconferentie
+
+T3CON is een internationale conferentie gefocust op technologieën die relevant zijn voor zowel bedrijven en TYPO3.
+
+T3CON bevat verschillende formats, de standaard presentaties, pecha kutchas, tot round-table sessies en zelfs workshops.
+
+Daarnaast is er ook een expo, waar u uw bedrijf kunt laten zien aan zowel oude als nieuwe klanten. Het event wordt afgesloten met de TYPO3 Awards waarmee verschillende personen en organisaties geëerd worden voor hun toevoegingen en inspanningen op het gebied van TYPO3.
+
+T3DD - TYPO3 ontwikkelaars dagen
+
+Wanneer u op zoek bent om meer te weten te komen over TYPO3, dan is dit de plek voor u. De ontwikkelaars dagen zijn opgedeeld in sessies over 3 dagen. TYPO3 experts vanuit alle delen van de wereld zijn aanwezig om u te informeren over de nieuwste ontwikkelingen binnen TYPO3. Houd er wel rekening mee dat u na dit event redelijk wat slaap in zult moeten halen!
+
+#CertiFUNcation - Een event voor gecertificeerde integrators
+
+Een keer per jaar organiseert het TYPO3 Educatie team samen met het TYPO3 Certificatie team een dag gefocust op certificering. Aangezien we het plezier terug willen brengen op het gebied van certificering laten we het event plaatsvinden in een pretpark.
+
+Naast presentaties van core team members kunt u ook zelf cursussen volgen op het gebied van presentaties geven die u kunnen helpen met het certificering examen. Dit examen kunt u tijdens dit event afnemen.
+
+Verdere presentaties zoals "Wat is er nieuw in TYPO3" en "TYPO3 beveiliging" helpen u met uw voorbereidingen voor hercertificering.
+
+In de avond kunt u genieten van een Barbecue, door het pretpark lopen en gesprekken voeren met mensen die een gezamenlijk interesseveld hebben, namelijk TYPO3.
+
+Uw voordelen als lid
+Word lid van de TYPO3 Vereniging en help mee om de toekomst van TYPO3 vorm te geven!
+
+Er zijn vele voordelen die u hebt als lid:
+
+Kortingen op certificeringen en vaker gratis tickets voor officiële TYPO3 evenementen
+Laat uw klanten zien dat u open source support door onze supporters badge te gebruiken op uw website
+Doe mee en stem over belangrijke thema’s binnen de algemene leden vergadering
+Laat uw stem horen en beslis mee over hoe TYPO3 haar fondsen besteed
+Laat uw organisatie zien op de officiële ledenlijst van TYPO3
+Bent u geïnteresseerd? Er zijn verschillende gradaties van lidmaatschappen voor u beschikbaar: https://TYPO3.org/association/membership/levels/

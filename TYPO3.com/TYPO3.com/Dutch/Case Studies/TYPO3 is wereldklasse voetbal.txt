@@ -1,0 +1,48 @@
+﻿Overview:
+TYPO3 is... Wereld klasse voetbal
+
+Meer dan 50 miljoen voetbalfans krijgen de laatste informatie en resultaten van hun club via TYPO3.
+
+Lees meer
+
+Full page:
+Wereld klasse voetbal
+
+1,6 miljard voetbal fans
+meer dan 50% van de Duitse bundesliga clubs
+DFB (Deutsche Fußball-Bund) en de "Mannschaft"
+
+Scoor uw doelpunten met TYPO3
+
+Voetbal is de sport met de meest fanatieke fans over ter wereld. Meer dan 1.6 miljard fans over de hele wereld volgen de wedstrijden van hun favoriete clubs op reguliere basis.
+
+Voor een lange tijd staan de Duitse clubs bekend om hun geweldige speelwijze en efficiëntie tijdens het spel, waardoor ook het Duitse nationale team zeer succesvol is.
+
+"Meer dan 50 miljoen voetbalfans krijgen de laatste resultaten van hun club via TYPO3."
+
+Ook al staan ze in het stadion tegenover elkaar, een ding hebben de clubs gemeen: TYPO3.
+Meer dan 50% van alle Bundesligaclubs gebruiken TYPO3 voor het publiceren van het laatste nieuws, resultaten, transfers, video streams en hun website. Daarnaast wordt het via TYPO3 ook in verschillende talen gepubliceerd voor de internationale fans.
+
+Deze Bundesligaclubs gebruiken TYPO3:
+
+Borussia Mönchengladbach
+
+Mainz 05
+
+VFL Wolfsburg
+
+FC Köln
+
+FC Ingolstadt
+
+HSV
+
+Werder Bremen
+
+SV Darmstadt 98
+
+Eintracht Frankfurt
+
+Hannover 96
+
+Ook de Duitse voetbalbond gebruikt TYPO3. Zowel voor zichzelf als voor het nationale team.

@@ -1,0 +1,49 @@
+Uw bedrijf laten groeien – bedrijven
+
+Als bedrijf of freelancer ligt uw focus vooral op de waarde die klanten aan u hechten. Dit is waar TYPO3 voor u het verschil kan maken.
+
+De uitgebreide template module van TYPO3 zorgt ervoor dat u uw templates kunt verwerken in kleine, herbruikbare delen. Met de tijd heeft u een complete verzameling aan bouwstenen die u stuk voor stuk opnieuw kunt gebruiken.
+
+Daarnaast kunt u modules bouwen voor de veelgebruikte use-cases. Deze kunt u later gebruiken om nieuwe projecten te kickstarten.
+
+
+Scheiding tussen content en design
+TYPO3 scheidt content van het design en de templates waardoor het bouwen van websites nog nooit zo makkelijk was. U hoeft niet in PHP code te lopen knoeien, want TYPO3 heeft vele template engines die compatible zijn. De keuze is aan u!
+
+Met de ingebouwde workspaces kunt u verschillende layouts parallel laten lopen en ze ‘on the spot’ aanpassen. U kunt ongestoord doorwerken terwijl uw redacteuren aan hun eigen content werken.
+
+Een ander voordeel is dat de redacteuren meteen kunnen beginnen met het toevoegen van content nadat het systeem geïnstalleerd is, ook al  is het design nog niet af of functioneel.
+
+TYPO3 heeft volledige support voor het "content first" idee
+
+
+
+100% controle over uw design
+TYPO3 kent geen limiet wanneer het gaat over het ontwerpen van uw applicatie. Laat dat maar even tot u komen: Geen. Limiet. Voor. Uw. Ontwerp. 
+Wij geloven in de absolute vrijheid van design voor onze ontwikkelaars en designers. Hierdoor is TYPO3 extreem flexibel. Wellicht komt er straks een nieuwe output, bijvoorbeeld HTML7, dat is nu al mogelijk met TYPO3 terwijl dingen als HTML7 nog niet eens bestaan.
+
+TYPO3 past zich aan elke nieuwe uitdaging die op ons af komt aan. Niet omdat we zo ontzettend veel, snel implementeren, maar omdat TYPO3 gewoon zo opgebouwd is.
+
+Imports en Exports
+TYPO3 kent een uitgebreid import en export systeem waardoor het uitwisselen van content makkelijk en snel gaat. Of het nu gaat om bepaalde pagina’s of een complete website, het is allemaal mogelijk.
+
+U kent de situatie: Iemand bouwde ooit voor een klant een website en u wordt gevraagd om dit over te zetten naar een nieuwe website.
+
+Dit is waar andere systemen u in de kou laten staan en u adviseren om alles maar de kopiëren en plakken. Met TYPO3 kunt u het simpelweg importeren van server A naar server B. Gewoon makkelijk.
+
+
+Doorgaande integratie
+Hoewel TYPO3 de perfecte tool is voor het managen van elk type content liggen de roots van TYPO3 in de framework wereld.
+
+Terwijl TYPO3 een CMS is met een krachtige beheer interface, werkt het aan de achterkant als een framework.
+
+We gebruiken een krachtig framework voor integratie tests, unittests en functionele tests zodat u uw applicatie kunt analyseren via een webbrowser zodat dat u zelf overal op hoeft te klikken.
+
+De TYPO3 test suite test uw applicaties automatisch zodat u er zeker van kunt zijn dat uw applicatie werkt zoals u dat verwacht.
+
+
+Laat uw kennis zien
+De TYPO3 vereniging biedt u cursussen en certificaten voor ontwikkelaars en redacteuren.
+
+Door het trainen van uw werknemers op het gebied van TYPO3 kunt u uw concurrentie altijd een stap voor blijven.
+

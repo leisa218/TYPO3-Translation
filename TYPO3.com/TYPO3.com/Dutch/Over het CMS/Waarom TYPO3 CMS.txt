@@ -1,0 +1,42 @@
+Waarom TYPO3 CMS?
+Heeft u zich wel eens afgevraagd wat TYPO3 nu werkelijk is?
+TYPO3 is een bedrijfs content management systeem.
+Om het in het kort te beschrijven: Wanneer u digitale content wilt publiceren, maken of onderhouden dan is TYPO3 de ideale tool voor u! U kunt klein beginnen en daarna uitgroeien tot een groot succes! Ook wanneer uw organisatie verandert, dan verandert uw CMS met u mee.
+
+
+Dit is waarom...
+
+Geen licentiekosten
+
+TYPO3 is open source software onder de GNU publieke licentie. Dit betekent dat wij u de software geven zonder dat er enigszins kosten aan verbonden zijn. Bij TYPO3 is dit altijd zo geweest en dat zal ook altijd zo blijven.
+
+TYPO3 is een stabiel systeem dat inmiddels al 15 jaar succesvol bestaat.
+
+Met meer dan 15 jaar ervaring op de CMS markt kunnen wij u met zekerheid zeggen "We hebben alles gezien". Naast dat we alles gezien hebben, hebben we tot op heden ieder digitaal probleem voor onze voeten succesvol weten op te lossen.
+
+Ervaring komt met de jaren, TYPO3 zit op dit gebied dus sowieso goed.
+
+Veel functionaliteiten zitten al in ons basispakket.
+
+Alles wat u nodig heeft voor uw digitale content is te vinden in TYPO3, en nog veel meer. Wanneer u toch iets nodig hebt dat u niet kunt vinden dan kunt u naar het TYPO3 extensie lijst gaan. Daar kunt u nogmaals vele extensies, beheermodules, services, thema's en vele andere modules vinden.
+
+
+
+TYPO3 Community - Groot en Levendig
+TYPO3 heeft een zeer actieve community die verdeeld is in verschillende teams en organisaties. Dit zorgt voor een doorgaande ontwikkeling van het systeem.
+
+Afhankelijk van de moeilijkheidsgraad van bepaalde taken worden verschillende taken door verschillende teams uitgevoerd.
+
+Het core team, een selectie van specialisten, is verantwoordelijk voor het ontwikkelen van de basisonderdelen van het TYPO3 CMS. Zij zorgen er voor dat TYPO3 altijd inspeelt op de vraag die momenteel op de markt ligt. Zij zorgen ook voor het testen en reviewen van nieuwe (en oude) code.
+
+
+TYPO3 Evenementen
+Wereldwijd vinden er verschillende evenementen plaats rondom TYPO3. Deze events zijn vooral gericht op klanten van TYPO3, ontwikkelaars en natuurlijk TYPO3 beginners. Allen krijgen bij deze events de kans om zich te laten informeren en om nieuwe dingen te leren van andere mensen binnen de TYPO3 community.
+
+De internationale TYPO3 conferenties geven u de mogelijkheid om kennis te maken met het TYPO3 project. Deze conferenties zijn ook een connectiepunt voor ontwikkelaars en organisaties/bedrijven, waar zij up to date informatie verkrijgen over TYPO3 en web development in Noord-Amerika, Europa en Azië.
+
+Nationale organisaties organiseren school, universiteit en campus cursussen voor TYPO3 ontwikkelaars en gebruikers.
+
+In 2015 werd door het TYPO3 Educatie commissie een evenement geïntroduceerd voor gecertificeerde ontwikkelaars genaamd "the #CertiFUNction Day" dat plaatsvond in een van de grootste pretparken van Europa, namelijk Phantasialand dicht bij Keulen, Duitsland. Dit evenement gaf mensen de kans hun TYPO3 kennis te verversen. Daarnaast kunt u gesprekken voeren met mensen met een gelijk interesseveld.
+
+Het jaarlijkse T3Board geeft u de kans om mee te gaan met een snowboard/ski tour om nieuwe mensen kennen te leren binnen de TYPO3 community. Wanneer de kou u minder trekt, kunt u ook meegaan met ons zeil evenement T3Sail.

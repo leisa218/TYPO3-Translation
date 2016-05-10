@@ -1,0 +1,50 @@
+Uw bedrijf laten groeien - Ontwikkelaars
+TYPO3 als content management systeem heeft de afgelopen 16 jaar sterke groei meegemaakt. TYPO3 biedt mogelijkheden voor complexe en veilige architecturen voor professionele ontwikkeling binnen de web wereld omdat er gefocust wordt op bedrijfsprocessen, websites en applicaties.
+
+Ontelbare inspirerende evenementen en de fantastische TYPO3 community geven u de kans om constant te blijven groeien op uw vakgebied.
+
+
+Geweldig product - Fantastische mensen
+Omdat TYPO3 geplande releases heeft, is het makkelijk voor bedrijven om hun implementatie van verschillende projecten goed te plannen. Backend, frontend, design en data-modellen zijn strikt gescheiden voor een sterke en onafhankelijke architectuur waardoor het ontwikkelen en onderhouden van uw applicaties veel eenvoudig is.
+
+TYPO3 is een community gedreven project waardoor we beschikken over grote kennis, waaronder nieuwe baanbrekende technologieën. Hiermee garanderen wij ons kwaliteitsniveau.
+
+Het uiterst gekwalificeerde core team van TYPO3 tilt open source naar een nieuw niveau. Ontmoet en spreek met core team leden op onze evenementen of via de TYPO3 community. Allerhande onderwerpen komen aan bod zoals de laatste ontwikkelingen, PHP code standaards en veiligheidsaspecten.
+
+Nog meer weten over TYPO3? Wellicht wilt u een keer mee met de codesprints van het core team, wellicht zelfs meermaals om bij te dragen aan TYPO3. De community is open, en iedereen is welkom.
+
+Het ontwikkelaarsportaal kunt u vinden op: www.TYPO3.org
+
+
+Nette code
+Meer dan 8000 unit-tests worden er gedraaid tijdens iedere ontwikkelingscyclus. Deze tests laten ons zien dat het werk dat we afleven ook kwalitatief van hoog niveau is. Sinds TYPO3 6 gebruiken we ook de PSR2 coding standard.
+
+PSR0 en PSR4 zijn compleet geïntegreerd in het TYPO3 systeem en sinds TYPO3 7 is PSR7 ook van de partij. Of u nu ervaring heeft met Symfony of Lavarel, het maakt niet uit, u kunt altijd in de core van TYPO3 duiken en u zult zich daar gegarandeerd thuis voelen.
+
+TYPO3 heeft ook bewezen als eerste CMS met PSR7 dat het ongelofelijk belangrijk om code standaarden te realiseren in een uitgebreid stuk software. Het resultaat is dat we een toekomstbestendige applicatie hebben neergezet, ook op het gebied van code.
+
+
+
+Altijd vooruitstrevend
+Het ontwikkelen van de TYPO3 core wordt gedaan via een Git repository, waarbij Gerrit gebruikt wordt als reviewsysteem.
+
+De Gerrit interface van TYPO3 kunt u vinden op review.TYPO3.org. Gerrit is de wachter aan de poort voor onze code.
+
+Elke verandering moet een goedkeuringsproces doorstaan binnen Gerrit voordat het naar het officiële repository van TYPO3 wordt gestuurd.
+
+
+Carrière en kansen
+Met een groot aandeel aan kennis en kunde is het vrijwel gegarandeerd een geweldige carrière tegemoet te gaan.
+
+De spreiding van kennis en kunde zorgt voor kansen in grote internationale firma’s die gespecialiseerd zijn in TYPO3, of natuurlijk uw eigen firma, of als freelancer.
+
+Zelfs wanneer u stopt met uw baan als ontwikkelaar liggen er voor u vele kansen als projectleider of dergelijke banen in het verschiet.
+
+
+
+Release datums waar u van op aan kunt, en compleet open source
+Sinds 2014 wordt TYPO3 in regelmaat gepatcht en gereleast. Het doel hiervan is om transparanter te zijn richting onze ontwikkelaars en vooral ook hen die bedrijfsmatige beslissingen moeten nemen op het gebied van TYPO3 zodat zij altijd weten waar ze aan toe zijn.
+
+Binnen agile development wordt elke nieuwe ontwikkeling gestart met een conceptfase, daarna met ontwikkelingssprints, dan stabiliseren en vervolgens naar het publiceren.
+
+Naast het core team hebben de afgelopen twaalf maanden 187 actieve community leden aan TYPO3 gewerkt, waardoor TYPO3 een uitstekend voorbeeld is van een levendige open source community.

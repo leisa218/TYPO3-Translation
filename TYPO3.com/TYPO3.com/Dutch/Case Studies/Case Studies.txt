@@ -1,0 +1,4 @@
+TYPO3 Case Studies
+Als een van de leidende open source content management systemen lopen er duizenden applicaties, websites en intranetoplossingen relevant voor het bedrijfsleven op TYPO3.
+
+In de volgende documenten vind u een paar geselecteerde TYPO3 toepassingen.

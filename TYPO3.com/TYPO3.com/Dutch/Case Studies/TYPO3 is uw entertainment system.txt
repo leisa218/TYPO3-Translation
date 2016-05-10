@@ -1,0 +1,40 @@
+﻿Overview:
+TYPO3 is... uw entertainmentsysteem
+
+Naast het plezier dat Jim en Marschall in gaming hebben zijn ze er ook achter gekomen dat ze bij elkaar in de buurt wonen, en zijn nu vrienden.
+
+Lees meer 
+
+Full page:
+TYPO3 is...
+Uw entertainmentsysteem
+
+8,216 miljard omzet
+110 miljoen geregistreerde gebruikers
+131.700 medewerkers
+Playstationstores in 51 landen
+
+Hoe wij vrienden werden via TYPO3
+Jim en Marschall kennen elkaar niet, maar een dingen hebben ze gemeen en dat is dat ze beide een SONY playstation hebben om games te spelen, videos te kijken en muziek af te spelen. Door het gebruik van Playstation Network spelen ze vaak met elkaar. Later komen ze er achter dat ze bij elkaar in de buurt wonen. Nu, naast gamen spreken ze ook regel matig of om andere activiteiten samen te doen.
+
+SONY Playstation Network: De cijfers
+Meer dan 100 miljoen mensen gebruiken het Playstation Network wereldwijd voor het downloaden en streamen van games, videos en muziek. Playstation Stores zijn te vinden in 51 landen en zijn 24/7 online. Alle content is toegankelijk via PC, tablet, laptop, smartphones en alle losse platformen van SONY zelf. Hierdoor is PSN een klassiek voorbeeld van een cross-platformsysteem. Met 131.000 werknemers maakt SONY jaarlijks een omzet van ongeveer 8 miljard Yen.
+
+Wow feiten
+Music Unlimited maakt deel uit van het Playstation Network en is toegankelijk in 19 landen. Volgens SONY zijn er ongeveer 10 miljoen songs toegankelijk.
+
+De Playstation Store is te bereiken in 51 landen. Consumenten kunnen hier content kopen voor Playstation 3, Playstation 4, PC, Tablet en Smartphone.
+
+Introductie van het project
+Het Playstation Network is de perfecte plek voor het verkrijgen van games, films, tv en apps. Een complete wereld van entertainment op Playstation, Tablet, PC en Smartphone.
+
+Bekijk, koop en zoek op uw favoriete platform PS4™, PS3™ en PS Vita™. Toegang tot de Playstation Store kan via het web op uw computer of mobiel.
+
+Met Playstation Video kunt u films huren en digitaal bekijken, zelfs als de discversie daarvan nog niet uitgebracht is.
+
+Ook Spotify kunt u vinden via Playstation Music. Luister naar miljoenen songs en playlists. Daarnaast kunt u uw games spelen met uw favoriete muziek op de achtergrond.
+
+Uitdagingen
+Toen der tijd was SONY al succesvol met het runnen van The Sony Entertainment Network in 57 verschillende landen en 14 talen. Dit was gebaseerd op een bestaande statische portal. Hierdoor werd het uitbrengen van nieuwe content een hele rompslomp die veel tijd en geld kostte.
+
+Sony zag dat er iets moest veranderen om het systeem stabieler en makkelijker te maken voor het regelmatig publiceren van nieuwe content en kozen daarom om te wisselen naar TYPO3.
