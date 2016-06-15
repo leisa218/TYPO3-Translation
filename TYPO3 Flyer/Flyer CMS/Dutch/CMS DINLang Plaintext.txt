@@ -1,0 +1,101 @@
+Dus we spreken over TYPO3
+Wat is TYPO3? Nou...
+
+Stabiel
+Sinds 10 jaar zijn er meer dan 500.000 websites, apps en intranets gebaseerd op TYPO3.
+
+Gemakkelijk
+Natuurlijk is een beetje kennis nodig, maar wanneer je er eenmaal op weg bent geholpen, gaat is het net zo eenvoudig als ABC.
+
+Gratis
+Geen licentiekosten, gratis voor u en voor iedereen.
+
+Levendige Open Source
+De TYPO3 community is altijd bereid te helpen met feedback, diensten, ondersteuning en ontwikkeling.
+
+Uitbreidbaar en flexibel
+TYPO3 houdt niet op wanneer u dat niet wilt. Uw partner kan TYPO3 zonder enige moeite met functionaliteiten uitbreiden met koppelingen tussen CRM of ERP systemen.
+
+Veilig
+Veiligheidssystemen tonen 0-day informatie over kwetsbaarheden in TYPO3 zelf en externe modules volgens het Common Vulnerability Scoring System (CVSS).
+
+
+////
+
+Mist u iets?
+U kunt ons alles vragen.
+
+TYPO3 is in elke vorm een community gedreven software pakket. Mensen van de TYPO3 community ontwikkelen, delen, praten over, vertellen verder over en creëren geweldige dingen.
+
+Wij staan altijd open voor suggesties en nieuwe bijdragen, als ook al u vragen met betrekking tot enig onderdeel van het systeem.
+Uw vraag of suggestie kunt u sturen naar info@typo3.org. Daar zullen wij u graag verder helpen en zullen zo spoedig mogelijk bij u terugkomen.
+
+I hou van TYPO3!
+Waar kan ik beginnen?
+
+Wanneer u een TYPO3 dienstverlener zoekt kunt u die hier vinden: https://typo3.org/support/professional-services/
+
+Wanneer u geïnteresseerd bent in programmeren of de community dan kunt u terecht op
+www.typo3.org
+
+Gemaakt met liefde & support door de TYPO3 stichting
+Voor meer informatie surf naar: https://typo3.org/association
+
+////
+
+TYPO3
+Uw nieuwe favoriete enterprise CMS
+
+Een korte introductie
+Versie 1
+Juli 2015
+
+////
+
+Feiten
+TYPO3 is het meest gebruikte enterprise CMS.
+TYPO3 ondersteunt gebruikers, marketeers en redacteuren in de verdere ontwikkeling van hun websites, intranet of apps op basis van een solide framework.
+TYPO3 zorgt ervoor dat u elk type content kunt creëren, publiceren en samenvoegen op meerdere apparaten en kanalen.
+
+Meer dan 500.000 websites, intranets and apps
+Open Source software
+Geen licentiekosten
+Snelle en betrouwbare bugfixes
+Mobile friendly
+Multisite beheer
+Verschillende domeinen en apps in een installatie
+Meertaligheid ondersteuning
+Content publicatie voor web, app, social, etc. op meerdere kanalen
+Geavanceerd gebruikersrechtensysteem
+Extreem schaalbaar
+Duizenden modules beschikbaar
+Open voor individuele ontwikkelingen en integratie van software van derde partijen, bijv. ERP, CRM of eCommerce software
+Gecertificeerde ontwikkelaars
+Support op lange termijn en actief veiligheids beheer
+Workflows en versiebeheer voor content en ontwikkeling
+
+
+////
+
+Er is geen "beste" CMS
+... Maar TYPO3 kan misschien het beste CMS voor u zijn.
+Tegenwoordig zijn er vele kanalen waarop bedrijven willen inspelen en alle soorten content willen creëren en publiceren. TYPO3 geeft u de mogelijk om websites en apps te beheren. Het maakt niet uit of deze native of web-based zijn. TYPO3 ondersteunt alles standaard of met gratis modules.
+Zijn we iets vergeten? Geen probleem! TYPO3 is volledig gebaseerd op haar community en iedereen kan bijdragen aan nieuwe projecten en het implementeren van nieuwe type content. Professionele bedrijven en ontwikkelaars zullen altijd klaar staan om u te helpen. U kunt ze zelfs vragen om verbeteringen in TYPO3 zelf te integreren.
+
+////
+Wie gebruiken er TYPO3?
+
+Waarom CEO's kiezen voor TYPO3
+
+Kosteneffectief en veilig
+Schaalbaar en stabiel
+
+Waarom marketeers kiezen voor TYPO3
+
+Gemakkelijke omgang met content en een duidelijke structuur
+Workflow en SEO output
+
+Waarom ontwikkelaars kiezen voor TYPO3
+
+Uitbreidbaar en makkelijk te integreren binnen bestaande infrastructuren
+Schaalbaar en goed onderhouden
