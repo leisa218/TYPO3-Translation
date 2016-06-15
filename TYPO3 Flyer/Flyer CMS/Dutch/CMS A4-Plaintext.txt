@@ -1,0 +1,56 @@
+TYPO3
+Uw nieuwe favoriete enterprise CMS
+
+Er is geen "beste" CMS
+... Maar TYPO3 kan misschien het beste CMS voor u zijn.
+Tegenwoordig zijn er vele kanalen waarop bedrijven willen inspelen en alle soorten content willen creëren en publiceren. TYPO3 geeft u de mogelijk om websites en apps te beheren. Het maakt niet uit of deze native of web-based zijn. TYPO3 ondersteunt alles standaard of met gratis modules.
+Zijn we iets vergeten? Geen probleem! TYPO3 is volledig gebaseerd op haar community en iedereen kan bijdragen aan nieuwe projecten en het implementeren van nieuwe type content. Professionele bedrijven en ontwikkelaars zullen altijd klaar staan om u te helpen. U kunt ze zelfs vragen om verbeteringen in TYPO3 zelf te integreren.
+
+Waarom CEO's kiezen voor TYPO3
+■■ Kosteneffectief en veilig
+■■ Schaalbaar en stabiel
+
+Waarom marketeers kiezen voor TYPO3
+■■ Gemakkelijke omgang met content en een duidelijke structuur
+■■ Workflow en SEO output
+
+Waarom ontwikkelaars kiezen voor TYPO3
+■■ Uitbreidbaar en makkelijk te integreren binnen bestaande infrastructuren
+■■ Schaalbaar en goed onderhouden
+
+//
+
+Belangrijke feiten
+TYPO3 is het meest gebruikte enterprise CMS.
+
+Stabiel
+Sinds 10 jaar zijn er meer dan 500.000 websites, apps en intranets gebaseerd op TYPO3.
+
+Gratis
+Geen licentiekosten, gratis voor u en voor iedereen.
+
+Gemakkelijk
+Natuurlijk is een beetje kennis nodig, maar wanneer je er eenmaal op weg bent geholpen, gaat is het net zo eenvoudig als ABC.
+
+Levendige Open Source
+De TYPO3 community is altijd bereid te helpen met feedback, diensten,  ondersteuning en ontwikkeling.
+
+Uitbreidbaar en flexibel
+TYPO3 houdt niet op wanneer u dat niet wilt. Uw partner kan TYPO3 zonder enige moeite met functionaliteiten uitbreiden met koppelingen tussen CRM of ERP systemen.
+
+Veilig
+Veiligheidssystemen tonen 0-day informatie over kwetsbaarheden in TYPO3 zelf en externe modules volgens het Common Vulnerability Scoring System (CVSS).
+
+
+Wie gebruiken er TYPO3?
+
+Mist u iets?
+
+Klant
+Wanneer u een TYPO3 dienstverlener zoekt kunt u die hier vinden: https://typo3.org/support/professional-services/
+
+Bijdragen
+Wanneer u geïnteresseerd bent in programmeren of de community dan kunt u terecht op www.typo3.org
+
+Gemaakt met liefde & ondersteuning door de TYPO3 stichting
+Voor meer informatie surf naar: https://typo3.org/association
