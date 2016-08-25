@@ -1,0 +1,41 @@
+TYPO3 v8.0 - Start dine motorer
+Core team er stolte over at annoncere denne første udgave som planlagt, selvom TYPO3 CMS 7 LTS fra november 2015 ikke er længe siden.
+Mens teamet aktivt støtter TYPO3 CMS 7 LTS med fejlrettelser for at snuppe de drillenisser, der overlevede en presset udgivelsesplan, arbejder vi hårdt på at skubbe systemet videre ind i en ny æra.
+
+
+Hovedforbedringer
+
+Ydelsesforbedringer gennem understøttelse af PHP 7
+
+PHP 7.0 er et minimumskrav i TYPO3 v8. TYPO3 vil understøtte efterfølgende versioner af PHP 7, efterhånden som de frigives. Denne version giver en markant forbedring af ydelsen af systemet generelt. Ikke kun backend redaktøren vil opleve en mere letløbende grænseflade. Den nye imponerende rekord for et kald på en full cached side, er under 7 millisekunder, hvilket er cirka 40% hurtigere, sammenlignet med samme hjemmeside under PHP 5.5.
+
+Tilføjet PHP Library "Doctrine DBAL" til databaseforbindelser indenfor TYPO3
+PHP Library Doctrine DBAL er blevet tilføjet via composer afhængighed, for at kunne arbejde som et stærkt database abstraction layer, med mange funktioner til database abstraction, schema introspection og schema management indenfor TYPO3.
+
+Brug selvstændig Fluid som composer afhængighed
+Fluids fortolker i TYPO3 CMS er udskiftet med en selvstændig og kompetent FLUID, som nu leveres som composer afhængig. Den gamle Fluid udvidelse er blevet konverteret til en såkaldt Fluid adapter, som tillader TYPO3 CMS at bruge selvstændig Fluid med dets mange nye muligheder og funktioner.
+
+Ext:form - Indlæs formularer-guide direkte som inline-guide
+Guiden til EXT:form indlæses direkte som inline guide. Du behøver ikke at gemme eller genindlæse det netop opbyggede indholdselement mere, for at kunne åbne guiden.  Dette er en kæmpe forbedring af brugervenligheden. Ydermere er det ikke nødvendigt at levere individuelle dokument headers. I stedet bruges de centraliserede dokument headers fra skabelon-modulets API.
+
+Genskab sider rekursivt fra toppen af rootline
+ Skraldespanden understøtter nu den rekursive genskabelse af slettede sider fra toppen af rootline. Denne funktion er kun tilgængelig for administratorer, som følge af de interne begrænsninger i tilladelser.
+
+Tilføjet understøttelse af PBKDF2 til saltedpasswords
+En ny adgangskode hashing-algoritme PBKDF2 er blevet tilføjet til systemudvidelsen saltedpasswords. PBKDF2 er designet til at være beregningsmæssigt svært at modstå med brute force adgangskode cracking.
+
+Vil du med i TYPO3 fællesskabet? 
+
+Har du nogen spørgsmål?
+Må vi hjælpe dig?
+Det er enkelt! Bare gå til
+http://typo3.org
+
+TYPO3 Association
+Sihlbruggstrasse 105
+6340 Baar
+Switzerland
+Telefon: +41 (0)41511 00 35
+Fax: +41 (0)41 511 00 39
+E-mail: info@typo3.org
+Web: http://typo3.org/association

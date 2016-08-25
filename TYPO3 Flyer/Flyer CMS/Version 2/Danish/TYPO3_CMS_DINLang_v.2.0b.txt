@@ -1,0 +1,85 @@
+Bare stærkere
+Stol på et CMS du kan vokse med
+
+
+Fordele
+TYPO3 er den hidtil mest anvendt enterprise content management system - og med god grund!TYPO3 gør dig i stand til at skabe og udgive enhver form for indhold til mange forskellige enheder og kanaler ...
+
+Pålidelig og troværdig
+En ting i livet du ikke kan fremskynde, er at vinde erfaringer - TYPO3 repræsenterer mere end 15 års professionel knowhow, herunder pålidelige og strukturerede udsigter for fremtiden.
+
+Let
+Selvfølgelig har du brug for lidt øvelse, men når du først er blevet introduceret til dit nye CMS, er det let som alfabetet - det lover vi!
+
+Fleksibelt og kan udvides
+Det stopper ikke, med mindre du ønsker det.Dit udviklingsbureau kan for eksempel udvide funktionaliteten i din TYPO3-løsning, så det sømløst kan forbindes til dit ønskede system.
+
+Open Source og frit
+Det store TYPO3-fællesskab yder hjælp, feedback, service, support og udvikling, og der er ingen omkostninger til licens involveret.
+
+Sikkert
+TYPO3 har et engageret team som permanent overvåger.Det giver en meget kort reaktionstid i situationer, hvor der opdages sårbarheder.
+
+Præstationsbaseret
+Takket være den enestående systemarkitektur, har TYPO3 succes med at behandle selv de mest komplekse systemer, og indfrier alle krav.
+
+Forudseende
+En af de største aktiver for fremtiden.
+
+Vi overholder de nøjagtige datoer for udgivelser og opdateringer!
+På denne måde er den seneste version konstant forbedret, mens ældre versioner er i sikkerhed.TYPO3 giver dig den mest effektive metode at planlægge dine projekter på. Ikke kun på kort, men også på langt sigt.Tidspunkter for lanceringer og opdateringer er planlagt lang tid i forvejen.Derudover holdes de ajour og formidles på en gennemsigtig måde.
+
+Regelmæssig vedligeholdelse
+Prioriterede fejlrettelser
+Sprintfaser
+Stabiliseringsfase
+Udvidet support (valgfri)
+
+Long Term Support (LTS)
+Takket være TYPO3s Long Term Support (LTS), behøver du ikke længere tænke på mentorordninger.Indtil marts 2020, er din TYPO3 support sikret.
+LTS er altid den sidste subversion, før en ny version af TYPO3 lanceres.Mens du allerede arbejder med en fuldt funktionsdygtig version af TYPO3 v7, kan du også tage et kig gennem nøglehullet og ind i fremtiden og se hvor TYPO3 8 bringer dig hen.For at give dig yderligere sikkerhed i din planlægning, kan du købe den supplerende Extended Long Term Support (ELTS).ELTS giver fordele ved at udvide supporten med et år.
+I kombination har du den perfekte blanding af en stabil og godt understøttet version, og en sikkert udsigt til fremtiden.
+
+
+Tiderne skifterDet gør CMS også.
+Vigtigheden af "nye" kanaler vil vokse støt.Derfor er dine krav, såvel som dine muligheder også ændret. Og derfor er TYPO3 den bedste løsning for dig!
+"Blot at køre en hjemmeside" er ikke nok mere. For eksempel ønsker enterprise brugere at sprede indhold, såvel som at hente data og aktiver ud af ERP- eller E-handelssystemet, og bruge dem i en flot formateret PDF på deres selskabs hjemmeside.
+TYPO3 driver ikke kun traditionelle hjemmesider, men også apps - uanset om de er native eller web-baserede og responsive. Desuden kan en bred vifte af sociale medier og digital markedsføring med e-mail, og endda printunderstøttelse, håndteres. TYPO3 undersøtter alt dette, enten ud af boksen, eller med gratis udvidelser.
+
+Hvorfor beslutningstagere vælger TYPO3
+Omkostningseffektive og sikre
+Skalérbar og fleksibel
+Mobilvenlig
+
+Hvorfor markedsføringsfolk vælger TYPO3
+Enkel indholdsplanlægning, struktur og udgivelse
+Arbejdsgange og SEO-ydelse
+Flerdomæne og flersproget understøttelse
+
+Hvorfor udviklere vælger TYPO3
+Enkel at udvide og integrere med eksisterende infrastuktur
+Skalérbart og godt vedligeholdt
+
+9 ud af 500.000!
+Brands der tror på TYPO3
+
+
+Mangler du noget?
+Spørg os endelig om hvadsomhelst.
+
+ Send os dine spørgsmål til info@typo3.org. Vi vil meget gerne hjælpe, og vil komme tilbage til dig så hurtigt som muligt.
+
+Kig på vores hjemmeside www.typo3.org hvis du ønsker yderligere information.
+
+Prøv at besøge www.typo3.org hvis du vil se det hele fra udviklerens synspunkt. Her finder du flere tekniske detaljer og information. 
+
+Et fællesskab at blive forelsket i!
+Open Source for alle.
+
+TYPO3 er ikke kun et CMS. Det er også et fællesskab. Hvis du ønsker at deltage eller bidrage, er du mere end velkommen. Du kan finde mere information om teams, begivenheder og mere, på www.typo3.org. Eller send en mail til info@typo3.org
+
+TYPO3
+TYPO3 Association
+Sihlbruggstrasse 105
+6340 Baar, Switzerland 
+typo3.org/association
