@@ -1,57 +1,0 @@
-So we‘re talking TYPO3.What is it? Well, for example it‘s
-
-ResilientFor 10 years now TYPO3 has been powering over 500,000 corporate intranets, websites and apps.
-
-EasySure you‘ll need a little training, but once you‘ve been introduced to your new CMS it is easy as ABC – promise!
-
-FreeNo licence costs involved, freely available to you and everybody else. 
-
-Expandable & FlexibleIt doesn‘t stop if you don‘t want it to. Your development agency can for example extend the functionality of your system to seamlessly connect to your CRM or ERP.
-
-Living Open SourceThe great TYPO3 community provides help, feedback, services, ongoing support and development. 
-
-SecureSecurity bulletins provide 0-day information about vulnerabilities in the core and 3rd party extensions using the Common Vulnerability Scoring System (CVSS).  
-
-
-////
-
-Are you missing something?Feel free to ask us anything.
-
-TYPO3 is a community-driven software in any sense. People from the TYPO3 community develop, share and contribute, discuss, spread the word and create awesome stuff. 
-
-We are always open to suggestions and new contributors, as well as to your questions concerning any facet of the system. Send your questions and inquiries to info@typo3.org and we will be glad to help and get back to you as soon as possible. 
-
-I am in love with TYPO3! Where can I dive in?
-
-If you are looking for a TYPO3 Service Provider you will find a list on http://association.typo3.org/members/ref/assoc/memberlist/.
-
-If you are interested in coding, the Community and anything system-related, please visit www.typo3.org.
-
-Made with love & support by: TYPO3 AssociationFor more info please visit: http://typo3.org/association
-
-////
-
-TYPO3Your new Favourite Enterprise CMS
-
-A brief introductionVersion 1 July 2015
-
-////
-
-Key Facts TYPO3 is the most widely used enterprise content management system. TYPO3 enables users, marketers and editors to further develop their websites, intranet sites or apps using a solid extension framework. TYPO3 also enables you to create, publish and syndicate any type of content to multiple devices and channels.  Running more than 500,000 websites, intrante sites and appsOpen source softwareNo license feesFast and reliable security and bug fixing Mobile friendlyMultisite managementRun different domains, apps and websites in one instanceMultilingual supportContent publication for web, app, social, etc. and content syndication for multiple channelsExtensive user rights managementHighly scalableThousands of extensions availableOpen to individual development and integration with 3rd party software, e.g. ERP, CRM or eCommerce software Open to individual development and integration with 3rd Party software, e.g. ERP or CRM or eCommerce softwareCertified developers and integratorsLong term support and active security managementWorkflows and versioning for content and development
-
-////
-
-There is no „Best“ CMS. 		Seriously? Seriously. When just running a website is not enough anymore and why TYPO3 might be the best CMS for you. Do you remember the times when you thought your websites were the one and only most valuable content source for all your customers?  Nowadays we see a wide range of different channels where enterprise users want to create and publish almost any kind of content. Or maybe you need to be able to have a workflow exactly in the opposite direction. Like getting your data and assets such as images or documents, out of your ERP or eCommerce System and join them together in a nicely rendered PDF on your corporate website. Beginning with traditional websites, over to apps – no matter if they are native or web-based responsive ones –  to a broad range of social media channels, direct marketing with mails and even print support – TYPO3 supports all of these either out-of-the box or with free extensions.Did we miss something? No problem! Since TYPO3 is a fully community driven open source project you can either implement new channels or content types on your own, with the help of professional agencies, developers and integrators or even request them to have them integrated into the TYPO3 core. 
-
-
-////
-Who‘s using TYPO3? 
-
-Why Executives choose TYPO3
-Cost effective and secureScalable and resilient
-
-Why Marketers choose TYPO3
-Easy content planning, structure and publishingWorkflows and SEO output 
-
-Why Developers choose TYPO3
-Extendable and easy to integrate into existing infrastructuresScalable and well maintained

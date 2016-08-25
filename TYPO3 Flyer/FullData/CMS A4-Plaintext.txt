@@ -1,28 +1,0 @@
-TYPO3Your new Favourite Enterprise CMS
-
-There is No „Best“ CMS... but TYPO3 might be the best CMS for you.Nowadays we see a wide range of different channels where enterprise users want to create and publish almost any kind of content. TYPO3 enables you to manage traditional websites, apps – no matter if they are native or web-based responsive ones – and broad range of social media channels. TYPO3 supports all of these either out-of-the box or with free extensions.Did we miss something? No problem! Since TYPO3 is a fully community driven open source project you can either implement new channels or content types on your own, with the help of professional agencies, developers and integrators or even request them to have them integrated into the TYPO3 core.
-
-Why Executives choose TYPO3■■ Cost effective and secure■■ Scalable and resilient
-Why Marketers choose TYPO3■■ Easy content planning, structure and publishing■■ Workflow and SEO output
-Why Developers choose TYPO3■■ Extendable and easy to integrate into existing infrastructures■■ Scalable and well maintained
-
-//
-
-Key FactsTYPO3 is the most widely used enterprise content management system.
-ResilientFor 10 years now TYPO3 has been powering over 500,000 corporate websites, intranet sites, and apps.
-FreeNo licence costs involved, freely available to you and everybody else.
-EasySure you‘ll need a little training, but once you‘ve been introduced to your new CMS it is easy as ABC – promise!
-
-Living Open SourceThe great TYPO3 community provides help, feedback, services, ongoing support and development.
-Expandable & FlexibleIt doesn‘t stop if you don‘t want it to. Your development agency can for example extend the functionality of your system to seamlessly connect to your CRM or ERP.
-SecureSecurity bulletins provide 0-day information about vulnerabilities in the core and 3rd party extensions using the Common Vulnerability Scoring System (CVSS).
-
-
-Who is using TYPO3?
-
-Are you missing something?
-
-CustomerIf you are looking for a TYPO3 Service Provider you will find a list on http://association.typo3.org/members/ref/assoc/memberlist/.
-ContributorIf you are interested in coding, the Community and anything system-related,please visit www.typo3.org
-
-Made with love & support by: TYPO3 AssociationFor more info please visit: http://typo3.org/association
